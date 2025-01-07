@@ -1,4 +1,4 @@
-##Quotes Application
+Quotes Application
 
 Project overview 
 
